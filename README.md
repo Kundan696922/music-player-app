@@ -56,7 +56,7 @@
 
 You can access the MP3 files from my Google Drive:
 
-- [Songs folder](https://drive.google.com/drive/folders/1nW62i_iTxLCFGBwJMyxY3iBMMQrv8r9Y?usp=sharing)
+- [Songs folder](https://bit.ly/42lLZDf)
 
 ---
 
