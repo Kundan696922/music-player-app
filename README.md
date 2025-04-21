@@ -6,8 +6,7 @@
 
 ## 📸 Preview
 
-> *(Add a screenshot or GIF of your app here)*  
-`![Rhythmo Screenshot](path-to-image)`
+![Screenshot 2025-04-21 134757](https://github.com/user-attachments/assets/9a33ad9b-4b2e-4967-b964-9b13db30ad2a)
 
 ---
 
