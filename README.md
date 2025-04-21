@@ -1,6 +1,6 @@
 # 🎵 Rhythmo - Music Player App
 
-**Rhythmo** is a sleek and responsive music player built using **HTML**, **CSS**, and **JavaScript**. It offers a simple interface to play, pause, and navigate through songs with ease — perfect for music lovers who want a stylish and functional web player.
+**Rhythmo** is a sleek and responsive music player built using **HTML**, **CSS**, and **JavaScript**. It offers a simple interface to play, pause, and shuffle through songs with ease — perfect for music lovers who want a stylish and functional web player.
 
 ---
 
@@ -22,6 +22,12 @@
 
 ---
 
+## 🚀 Demo
+
+> You can see the app live here: 👉 [Show Demo](https://rhythmo-music-player-app.netlify.app/)
+
+---
+
 ## 🛠️ Tools Used
 
 | Tool           | Description           |
@@ -37,7 +43,7 @@
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone https://github.com/yourusername/rhythmo.git
+   https://github.com/Kundan696922/music-player-app
 
 2. Open the project folder and launch index.html in your browser.
 
