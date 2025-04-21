@@ -16,7 +16,7 @@
 - 🎶 Play/Pause music  
 - ⏭️ Next and Previous track controls  
 - 📃 Song list display  
-- 🔁 Repeat and Shuffle functionality *(optional if implemented)*  
+- 🔁 Repeat and Shuffle functionality 
 - 🎨 Stylish and responsive UI  
 - 📱 Works on desktop and mobile devices
 
@@ -32,4 +32,26 @@
 | ![VS Code logo](https://img.icons8.com/color/24/visual-studio-code-2019.png) **VS Code** | Code editor used |
 
 ---
+
+## ▶️ How to Use
+
+1. **Clone or Download** the repository:
+   ```bash
+   git clone https://github.com/yourusername/rhythmo.git
+
+2. Open the project folder and launch index.html in your browser.
+
+3. Enjoy the songs through the custom interface!
+
+---
+
+
+## Music Collection
+
+You can access the MP3 files from my Google Drive:
+
+- [Songs folder](https://drive.google.com/drive/folders/1nW62i_iTxLCFGBwJMyxY3iBMMQrv8r9Y?usp=sharing)
+
+---
+
 
